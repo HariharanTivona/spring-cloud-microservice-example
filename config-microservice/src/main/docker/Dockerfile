@@ -1,4 +1,4 @@
-FROM java:8
+FROM eclipse-temurin:8-jdk
 VOLUME /tmp
 ADD config-microservice-0.1.0.jar app.jar
 RUN bash -c 'touch /app.jar'
