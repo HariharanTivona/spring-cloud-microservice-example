@@ -1,4 +1,0 @@
-image: movies-ui
-port: 9006
-expose: true
-nodePort: 31006

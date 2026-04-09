@@ -1,3 +1,0 @@
-image: movie-microservice
-port: 9005
-expose: false

@@ -1,3 +1,0 @@
-image: recommendation-microservice
-port: 9003
-expose: false

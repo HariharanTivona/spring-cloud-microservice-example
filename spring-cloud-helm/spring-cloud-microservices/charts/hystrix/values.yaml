@@ -1,4 +1,0 @@
-image: hystrix-dashboard
-port: 7979
-expose: true
-nodePort: 30797

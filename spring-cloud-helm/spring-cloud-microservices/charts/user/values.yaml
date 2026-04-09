@@ -1,3 +1,0 @@
-image: users-microservice
-port: 9000
-expose: false

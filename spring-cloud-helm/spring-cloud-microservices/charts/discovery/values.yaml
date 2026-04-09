@@ -1,4 +1,0 @@
-image: discovery-microservice
-port: 8761
-expose: true
-nodePort: 30761
