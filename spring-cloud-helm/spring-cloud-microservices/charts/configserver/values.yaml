@@ -1,0 +1,4 @@
+image: config-microservice
+port: 8888
+expose: true
+nodePort: 30888
