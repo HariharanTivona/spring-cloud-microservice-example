@@ -1,0 +1,4 @@
+image: api-gateway-microservice
+port: 10000
+expose: true
+nodePort: 31000

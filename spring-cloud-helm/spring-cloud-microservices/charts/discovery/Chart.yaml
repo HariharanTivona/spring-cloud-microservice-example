@@ -1,0 +1,6 @@
+apiVersion: v2
+name: discovery
+description: Spring Cloud discovery service
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
